@@ -1,0 +1,29 @@
+body
+{
+background-image:url('bg13.jpg');
+font-size: 2.5em;
+}
+.button
+{
+    width: 30vh;
+    height: 8vh;
+    border-radius:20px;
+}
+nav{
+width: 100%;
+height: 50px;
+padding:0px 0px;
+display: flex;
+justify-content: space-around;
+align-items:left;
+color:white;
+background-color:rgba(0,0,0,0.3);
+}
+.logo{
+font-weight: bold;
+
+letter-spacing:2px;
+}
+.logo span{
+color:red ;
+}
